@@ -23,10 +23,6 @@ Hand motion recognition is a fundamental aspect of human-computer interaction, w
 - **Color Detection**: Adjust the upper and lower HSV thresholds using the trackbars to optimize color detection based on environmental conditions.
 - **Frame Processing**: Fine-tune frame processing parameters such as kernel size for morphological operations to enhance detection accuracy.
 
-## Contributions
-
-Contributions to this project are welcome! Whether it's bug fixes, enhancements, or new features, feel free to open issues or submit pull requests to improve the functionality of this hand motion recognition script.
-
 ## License
 
 This project is licensed under the MIT License. Refer to the [LICENSE](LICENSE) file for detailed terms and conditions.
